@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnetapp", "dotnetapp.csproj", "{CD3A9260-2B43-4CC4-B004-773139AD5DEF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnetapp.web", "..\dotnetapp.web\dotnetapp.web.csproj", "{FFBB82CD-7681-432C-8981-CE588910BD15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD3A9260-2B43-4CC4-B004-773139AD5DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3A9260-2B43-4CC4-B004-773139AD5DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3A9260-2B43-4CC4-B004-773139AD5DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3A9260-2B43-4CC4-B004-773139AD5DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFBB82CD-7681-432C-8981-CE588910BD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBB82CD-7681-432C-8981-CE588910BD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBB82CD-7681-432C-8981-CE588910BD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBB82CD-7681-432C-8981-CE588910BD15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6258AF11-812B-4F84-84B8-093177462A08}
+	EndGlobalSection
+EndGlobal
